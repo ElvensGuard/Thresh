@@ -1,1 +1,8 @@
-pull request from http://status.leagueoflegends.com/#euw
+#include <iostream>
+using namespace std();
+
+int main()
+{
+cout << "Bot working with c++?";
+return 0;
+}
